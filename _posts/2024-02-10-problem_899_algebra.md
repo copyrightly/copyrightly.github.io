@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "String and Algebra"
+title: "Problem 899 algebra"
 date: 2024-02-10
 categories: math_and_algo
 tags: algebra
