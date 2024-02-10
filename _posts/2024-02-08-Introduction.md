@@ -1,17 +1,20 @@
 layout: post
-title: "Introduction"
-date: 2024-02-08 hh:mm:ss -0000
+title: "Introduction: Just For Fun!"
+date: 2024-02-08
 categories: GENERAL
 
-As a math lover, I always like to solve algorithmic problems using mathematical ideas or theorems, 
-or explain a perplexing algorithm through mathematical concepts. Like many other college students, 
-I practiced problem solving on leetcode when I was preparing technique interviews. During the process, 
-I encountered many problems having intriguing connections to what I have learnt in my college math classes. 
-Some of these problems are presented as vivid examples of some abstract and confusing mathematical theorems. 
-So I gradually collected problems that are more of math nature than pure CS. In this page, I categorized 
-these problems based on their math nature, such as analysis, algebra, number theory, combinatorics and optimization. 
-These problems make me more and more appreciate the elegance and beauty of mathematics, and sometimes surprising 
-connections to algorithmic problems. So I write these articles to share my wonderful experiences with people. 
-I would really appreciate it if people can provide feedback or share their collections if he/she is also a math lover.
+As a passionate enthusiast of mathematics, I find great joy in tackling algorithmic challenges using mathematical principles. Whether it's deciphering a perplexing algorithm or unraveling its intricacies through mathematical concepts, I am constantly drawn to exploring the intersection of math and computer science.
 
-Caveat: 
+My journey began during my preparation for technical interviews, where I honed my problem-solving skills on platforms like [LeetCode](https://leetcode.com/problemset/). Along the way, I stumbled upon numerous problems that bore fascinating connections to the mathematical theories I had studied in college. These problems often served as vivid illustrations of abstract or bewildering mathematical theorems, prompting me to collect them and categorize them based on their mathematical nature.
+
+On this page, I've organized these problems into various categories such as analysis, algebra, number theory, combinatorics, and optimization. Each category represents a distinct facet of mathematics that enriches my understanding of algorithmic problem-solving. Through solving these problems, I've developed a deeper appreciation for the elegance and beauty of mathematics, and I'm continually amazed by the unexpected connections they forge with algorithmic challenges.
+
+In sharing my experiences through these articles, my aim is to inspire others to explore the fascinating interplay between mathematics and algorithmic problem-solving. I welcome feedback and encourage others to share similar algorithmic problems that spark their curiosity.
+
+It's important to note that while these articles showcase intriguing connections between math and algorithmic problems, they are not intended as preparation material for technical interviews. Hence, I've aptly named this series "Just For Fun!". Additionally, some solutions presented may prioritize illustrating mathematical ideas over optimization in terms of time and space complexity.
+
+I hope you find these articles both enlightening and enjoyable as we embark on this mathematical journey together.
+
+---
+
+*This passage has been polished by ChatGPT.*
