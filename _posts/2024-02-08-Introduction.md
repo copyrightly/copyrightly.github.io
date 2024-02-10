@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Introduction"
 date: 2024-02-08
 categories: general
