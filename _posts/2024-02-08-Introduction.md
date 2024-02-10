@@ -1,7 +1,11 @@
+---
 layout: post
 title: "Introduction: Just For Fun!"
 date: 2024-02-08
 categories: GENERAL
+---
+
+# Introduction: Just For Fun!
 
 As a passionate enthusiast of mathematics, I find great joy in tackling algorithmic challenges using mathematical principles. Whether it's deciphering a perplexing algorithm or unraveling its intricacies through mathematical concepts, I am constantly drawn to exploring the intersection of math and computer science.
 
