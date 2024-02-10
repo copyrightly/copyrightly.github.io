@@ -41,6 +41,6 @@ def judgeSquareSum(self, c: int) -> bool:
 ```
 
 
-Since we iterate through all natural numbers less than or equal to `sqrt(n)` and calculate the frequency of each factor of `n`, this part contributes a complexity of `O(log n)`. Therefore, the overall complexity of the algorithm is `O(sqrt(n)log(n))`.
+Since we iterate through all natural numbers less than or equal to `sqrt(n)` and calculate the frequency of each factor of `n`, this part contributes a complexity of `O(log(n))`. Therefore, the overall complexity of the algorithm is `O(sqrt(n)log(n))`.
 
 An interesting question is: for any given natural number, what is the minimum number of squares it can be written as the sum of? We will provide the answer in the next article.
