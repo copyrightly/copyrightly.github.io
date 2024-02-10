@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 899 algebra"
-permalink: /problem-899-algebra
+permalink: /problem899-algebra
 ---
 
 # String and Algebra
@@ -12,7 +12,7 @@ It was precisely this problem that inspired me to start summarizing this type of
 
 The problem states that we can move any one of the first `k` letters in `s`, considering two cases: `k = 1` and `k > 1`.
 
-- When `k = 1`, we simply rotate `s`: continuously move the first letter to the end. We can list all the strings obtained in this way and then find the smallest one. The time complexity is O(n^2).
+- When `k = 1`, we simply rotate `s`: continuously move the first letter to the end. We can list all the strings obtained in this way and then find the smallest one. The time complexity is `O(n^2)`.
 
 - The case when `k > 1` is more complex. We can choose any one of the first `k` letters, which seems to result in a large number of possible strings. So we wondered if all permutations of `s` could be obtained? Here the theorem mentioned earlier comes into play. To show that we can obtain all permutations of `s`, we only need to prove that we can achieve any transposition. This is not difficult to prove. Assuming `s = s1 x s2 y s3`, where `s1`, `s2`, and `s3` are strings with lengths greater than or equal to 0, and `x` and `y` are two letters. We want to prove that we can swap the positions of `x` and `y` through the operations mentioned in the problem statement:
 
@@ -25,6 +25,6 @@ y s2 x s3 s1 (move y s2 x s3 to the end)
 s1 y s2 x s3
 ```
 
-This way we have successfully swapped the positions of `x` and `y`. Then, according to the theorem, we can achieve any permutation of `s`, so the answer is to sort all the letters in `s`. In Python, we only need to return `sorted(s)`, and the time complexity is O(n*log(n)).
+This way we have successfully swapped the positions of `x` and `y`. Then, according to the theorem, we can achieve any permutation of `s`, so the answer is to sort all the letters in `s`. In Python, we only need to return `sorted(s)`, and the time complexity is `O(n*log(n))`.
 
 In this way, a problem marked as hard on LeetCode can be perfectly solved by a theorem of higher algebra.
