@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 899 algebra"
-permalink: /problem-819-algebra
+permalink: /problem819-algebra
 ---
 
 # String and Algebra
