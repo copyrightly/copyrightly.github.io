@@ -13,8 +13,8 @@ To determine if a natural number can be expressed as the sum of two squares, one
 However, in terms of algorithm implementation, a natural question arises: how do we decompose `n` into prime factors since there is no direct algorithm to list all prime numbers less than or equal to `sqrt(n)`? In fact, we do not need to list prime factors; we only need to iterate through all natural numbers less than or equal to `sqrt(n)`. For any natural number `m` less than or equal to `sqrt(n)`, if `m` is a factor of `n`, we record the number of times `m` appears in the decomposition. Consider the following two cases:
 
 - If `m` is congruent to 1 modulo 4, it is not necessary to consider it because...
- - If `m` is a prime number, according to the theorem, we do not need to consider the number of times `m` appears.
- - If `m` is a composite number, then the prime factors of the form `4k+3` contained in `m` must appear an even number of times; otherwise, it contradicts with `m` being congruent to 1 modulo 4.
+  - If `m` is a prime number, according to the theorem, we do not need to consider the number of times `m` appears.
+  - If `m` is a composite number, then the prime factors of the form `4k+3` contained in `m` must appear an even number of times; otherwise, it contradicts with `m` being congruent to 1 modulo 4.
 - If `m` is congruent to 3 modulo 4, then if `m` appears an even number of times, `n` can be expressed as the sum of two squares; otherwise, it cannot. You may ask here that we do not know if `m` is a prime number, so we cannot use Fermat's theorem. In fact, we can consider the prime factors of `m` because `m` is congruent to 3 modulo 4, so `m` must contain a prime factor of the form `4k+3` and appear an odd number of times. In this case, if `m` appears an even number of times, the prime factor of the form `4k+3` also appears an even number of times; if `m` appears an odd number of times, such a factor also appears an odd number of times. Therefore, we can use Fermat's theorem for judgment.
 
 Based on the discussion above, our algorithm implementation is quite simple. Here is an example of Python code:
