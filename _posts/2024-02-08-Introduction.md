@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction: Just For Fun!"
 date: 2024-02-08
-categories: GENERAL
+categories: general
 ---
 
 # Introduction: Just For Fun!
