@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction: Just For Fun!"
+title: "Introduction"
 date: 2024-02-08
 categories: general
 ---
