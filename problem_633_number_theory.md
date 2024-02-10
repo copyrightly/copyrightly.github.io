@@ -4,7 +4,7 @@ title: "Problem 633 Number Theory"
 permalink: /problem633-number-theory
 ---
 
-# Fermat's two-square theorem 
+# Fermat's Two-Square Theorem 
 
 [Problem 633](https://leetcode.com/problems/sum-of-square-numbers/): Determine if a Natural Number Can Be Written as the Sum of Two Squares
 
