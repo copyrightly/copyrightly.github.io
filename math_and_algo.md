@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Fun Math & Algorithm"
 permalink: /math-and-algo
 ---
