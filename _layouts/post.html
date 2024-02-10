@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h2>{{ page.title }}</h2>
+            {{ content }}
+        </article>
+    </main>
+    <footer>
+        <p>&copy; {{ site.author }} - {{ site.title }}</p>
+    </footer>
+</body>
+</html>
