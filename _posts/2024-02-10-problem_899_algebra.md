@@ -1,7 +1,11 @@
+---
 layout: post
 title: "String and Algebra"
 date: 2024-02-10
 categories: Algebra
+---
+
+# String and Algebra
 
 [Problem 899](https://leetcode.com/problems/orderly-queue/): Given a string `s` and an integer `k <= len(s)`, we can move any one of the first `k` letters of `s` to the end of `s`. If we can perform this operation any number of times, return the smallest (in lexicographic order) string that can be obtained.
 
