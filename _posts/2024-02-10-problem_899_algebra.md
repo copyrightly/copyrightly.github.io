@@ -2,7 +2,8 @@
 layout: post
 title: "String and Algebra"
 date: 2024-02-10
-categories: Algebra
+categories: math_and_algo
+tags: algebra
 ---
 
 # String and Algebra
