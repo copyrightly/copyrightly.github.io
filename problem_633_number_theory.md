@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 633 Number Theory"
-permalink: /problem-633-number-theory
+permalink: /problem633-number-theory
 ---
 
 # Fermat's two-square theorem 
