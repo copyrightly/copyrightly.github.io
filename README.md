@@ -1,4 +1,4 @@
-[Fun Math & Algorithm](https://copyrightly.github.io/fun-math-and-algo)
+[Fun Math & Algorithm](https://copyrightly.github.io/fun-math-&-algorithm)
 
 [Fun ML projects]
 
