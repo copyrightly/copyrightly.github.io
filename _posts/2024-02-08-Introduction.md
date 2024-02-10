@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Introduction"
 date: 2024-02-08
 categories: general
