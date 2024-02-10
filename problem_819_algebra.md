@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Problem 899 algebra"
 permalink: /problem-819-algebra
 ---
