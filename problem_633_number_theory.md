@@ -19,15 +19,21 @@ However, in terms of algorithm implementation, a natural question arises: how do
 
 Based on the discussion above, our algorithm implementation is quite simple. Here is an example of Python code:
 ```python
-def judgeSquareSum(self, c: int) -> bool:
+def judgeSquareSum(c: int) -> bool:
     for i in range(2, c + 1):
+        # iterate until sqrt(c)
         if i * i > c:
             break
+        # find a factor of c
         if c % i == 0:
             cnt = 0
+            # count exponent of the factor
             while c % i == 0:
                 cnt += 1
                 c //= i
+            # if the factor is in the form of 4k + 3,
+            # check if its exponent is odd:
+            # if yes, c can't be written as a sum of two squares
             if i % 4 == 3 and cnt % 2 == 1:
                 return False
     return c % 4 != 3
