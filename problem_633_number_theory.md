@@ -20,24 +20,17 @@ However, in terms of algorithm implementation, a natural question arises: how do
 Based on the discussion above, our algorithm implementation is quite simple. Here is an example of Python code:
 ```python
 def judgeSquareSum(self, c: int) -> bool:
-    def isSquare(x):
-        l, r = 0, x
-        while l <= r:
-            m = l + (r - l) // 2
-            curr = m * m
-            if curr == x:
-                return True
-            elif curr > x:
-                r = m - 1
-            else:
-                l = m + 1
-        return False
-    for x in range(c + 1):
-        curr = x * x
-        if curr > c:
-            return False
-        if isSquare(c - curr):
-            return True
+    for i in range(2, c + 1):
+        if i * i > c:
+            break
+        if c % i == 0:
+            cnt = 0
+            while c % i == 0:
+                cnt += 1
+                c //= i
+            if i % 4 == 3 and cnt % 2 == 1:
+                return False
+    return c % 4 != 3
 ```
 
 
