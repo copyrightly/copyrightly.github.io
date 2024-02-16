@@ -68,4 +68,4 @@ def numSquares(n: int) -> int:
     return 3
 ```
 
-The complexity mainly lies in determining whether a number can be expressed as the sum of two squares using the Sum of two squres theorem, with a complexity of `O(sqrt(n)log(n))` (as discussed in the [previous article LeetCode 633](https://copyrightly.github.io/problem899-algebra)). The complexity of Legendre's theorem (`isFourSquareSum` function) is only `O(log(n))`, so the overall complexity of the algorithm is O(sqrt(n)log(n)).
+The complexity mainly lies in determining whether a number can be expressed as the sum of two squares using the Sum of two squres theorem, with a complexity of `O(sqrt(n)log(n))` (as discussed in the [previous article LeetCode 633](https://copyrightly.github.io/problem899-algebra)). The complexity of Legendre's theorem (`isFourSquareSum` function) is only `O(log(n))`, so the overall complexity of the algorithm is `O(sqrt(n)log(n))`.
