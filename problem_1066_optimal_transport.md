@@ -40,7 +40,7 @@ def assignBikes(workers, bikes, n):
 ```
 
 A simple example:
-![Alt text](assets/images/problem_1066_ot_simple_example.png)
+![a simple example with `n=3`](assets/images/problem_1066_ot_simple_example.png)
 
 It's worth noting that the complexity of the optimal transport algorithm is only `O(n^3 log(n))`, which is much more efficient than the dynamic programming algorithm with a complexity of `O(n 2^n)`.
 
