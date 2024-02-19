@@ -39,6 +39,10 @@ def assignBikes(workers, bikes, n):
    pl.title('OT matrix with samples')
 ```
 
+A simple example:
+![Alt text](assets/images/problem_1060_ot_simple_example.png)
+
 It's worth noting that the complexity of the optimal transport algorithm is only `O(n^3 log(n))`, which is much more efficient than the dynamic programming algorithm with a complexity of `O(n 2^n)`.
 
-In a more complex example (`n = 20`) below, the optimal transport algorithm takes 0.04 seconds, while dynamic programming requires 12.9 seconds
+In a more complex example (`n = 20`) below, the optimal transport algorithm takes 0.04 seconds, while dynamic programming requires 12.9 seconds.
+![Alt text](assets/images/problem_1060_ot_complicated_example.png)
