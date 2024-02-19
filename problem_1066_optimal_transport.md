@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Problem 1060 optimal transport"
-permalink: /problem1060-optimal-transport
+title: "Problem 1066 optimal transport"
+permalink: /problem1066-optimal-transport
 ---
 
 # Optimal Transport
 
-[Problem 1060](https://leetcode.com/problems/missing-element-in-sorted-array/): In a 2D grid representing a campus, there are `n` people and `m` bikes (`n <= m`). The location of each person and bike is represented by 2D coordinates on the grid. We want to minimize the sum of distances between all possible assignments of people to bikes, where the distance between a person and a bike is calculated using the Manhattan distance.
+[Problem 1066](https://leetcode.com/problems/campus-bikes-ii/): In a 2D grid representing a campus, there are `n` people and `m` bikes (`n <= m`). The location of each person and bike is represented by 2D coordinates on the grid. We want to minimize the sum of distances between all possible assignments of people to bikes, where the distance between a person and a bike is calculated using the Manhattan distance.
 
 One approach is to use dynamic programming: sequentially assign each person to a bike, considering the minimum sum of distances achievable with the current bike assignment. The bike assignment status can be represented by a bitmask of length `m`: 1 indicates the bike has been assigned, and 0 indicates it has not. Therefore, there are a total of `2^m` possible assignment states. Since we consider each person sequentially, the complexity of this algorithm is `n*2^m`. While this is an inefficient algorithm, the constraints on `n` and `m` in the original problem are very small: `n <= m <= 10`, making this approach acceptable. Alternatively, if we view people and bikes as probability distributions on a plane, we can use the optimal transport algorithm to solve this problem.
 
@@ -39,6 +39,10 @@ def assignBikes(workers, bikes, n):
    pl.title('OT matrix with samples')
 ```
 
+A simple example:
+![Alt text](assets/images/problem_1066_ot_simple_example.png)
+
 It's worth noting that the complexity of the optimal transport algorithm is only `O(n^3 log(n))`, which is much more efficient than the dynamic programming algorithm with a complexity of `O(n 2^n)`.
 
-In a more complex example (`n = 20`) below, the optimal transport algorithm takes 0.04 seconds, while dynamic programming requires 12.9 seconds
+In a more complex example (`n = 20`) below, the optimal transport algorithm takes 0.04 seconds, while dynamic programming requires 12.9 seconds.
+![Alt text](assets/images/problem_1066_ot_complicated_example.png)
