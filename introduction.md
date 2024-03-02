@@ -21,3 +21,5 @@ I hope you find these articles both enlightening and enjoyable as we embark on t
 ---
 
 *This passage has been polished by ChatGPT.*
+
+[back](/math-and-algo)
