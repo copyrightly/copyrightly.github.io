@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 62 dynamic programming and combinatorics"
-permalink: /problem62-combinatorics
+permalink: /_posts/problem62-combinatorics
 ---
 
 # Dynamic Programming and Combinatorics
