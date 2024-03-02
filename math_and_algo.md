@@ -9,5 +9,6 @@ permalink: /math-and-algo
 - [Number Theory: Sum of Two Squares Theorem (Problem 633)](https://copyrightly.github.io/problem633-number-theory)
 - [Number Theory: Legendre's Three-Square Theorem (Problem 279)](https://copyrightly.github.io/problem279-Legendre-three-square-theorem)
 - [Optimization: Optimal Transport (Problem 1066)](https://copyrightly.github.io/problem1066-optimal-transport)
+- [Combinatorics (Problem 62)](https://copyrightly.github.io/_posts/problem62-combinatorics)
 
 [back](./)
