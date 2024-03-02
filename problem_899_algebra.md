@@ -28,3 +28,5 @@ s1 y s2 x s3
 This way we have successfully swapped the positions of `x` and `y`. Then, according to the theorem, we can achieve any permutation of `s`, so the answer is to sort all the letters in `s`. In Python, we only need to return `sorted(s)`, and the time complexity is `O(n*log(n))`.
 
 In this way, a problem marked as hard on LeetCode can be perfectly solved by a theorem of higher algebra.
+
+[back](/math-and-algo)
