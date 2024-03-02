@@ -12,4 +12,4 @@ Since the robot has two choices at each position (moving down or right), a natur
 
 In fact, applying combinatorial ideas provides a more direct solution. Regardless of the path, there must be a total of `m + n - 2` steps from the top-left to the bottom-right corner, and among these steps, there are exactly `n - 1` steps to the right and `m - 1` steps downwards. Therefore, the final answer is the combination of `m + n - 2` choose `m - 1`. In Python, we only need to `return math.comb(m + n - 2, m - 1)`.
 
-[back](./math-and-algo)
+[back](/math-and-algo)
