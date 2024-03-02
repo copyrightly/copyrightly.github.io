@@ -8,5 +8,7 @@ Wei Lu, Math PhD
 
 Efficient ML, Model Acceleration @Meta
 
+email: luweisincere@gmail.com
+
 [back](./)
 
