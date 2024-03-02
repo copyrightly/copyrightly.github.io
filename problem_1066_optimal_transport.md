@@ -46,3 +46,5 @@ It's worth noting that the complexity of the optimal transport algorithm is only
 
 In a more complex example (`n = 20`) below, the optimal transport algorithm takes 0.04 seconds, while dynamic programming requires 12.9 seconds.
 ![Alt text](assets/images/problem_1066_ot_complicated_example.png)
+
+[back](/math-and-algo)
