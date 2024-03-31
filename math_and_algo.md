@@ -10,5 +10,6 @@ permalink: /math-and-algo
 - [Number Theory: Legendre's Three-Square Theorem (Problem 279)](https://copyrightly.github.io/problem279-Legendre-three-square-theorem)
 - [Optimization: Optimal Transport (Problem 1066)](https://copyrightly.github.io/problem1066-optimal-transport)
 - [Combinatorics (Problem 62)](https://copyrightly.github.io/problem62-combinatorics)
+- [XOR and Primes (Codeforces 931 D2 XOR Break - Game Version)](https://copyrightly.github.io/Codeforces931D2-xor-primes)
 
 [back](./)
