@@ -4,7 +4,7 @@ title: "Codeforces 935 E Binary Search on Aribitrary Array"
 permalink: /Codeforces935E-binary-search
 ---
 
-# XOR and Primes
+# Binary Search on Aribitrary Array
 
 [Codeforces 935 E Binary Search](https://codeforces.com/problemset/problem/1945/E): Binary search is a widely used and efficient search algorithm, predicated on the assumption that the given data is sorted (either in ascending or descending order). This problem presents an intriguing conclusion: for any permutation of numbers from `1` to `n`, allowing the swapping of two elements' positions, regardless of whether the permutation is sorted or not, we can still use binary search to find the target element. The question then becomes: how do we select the elements to swap?
 
