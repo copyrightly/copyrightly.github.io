@@ -11,6 +11,6 @@ permalink: /math-and-algo
 - [Optimization: Optimal Transport (Problem 1066)](https://copyrightly.github.io/problem1066-optimal-transport)
 - [Combinatorics (Problem 62)](https://copyrightly.github.io/problem62-combinatorics)
 - [XOR and Primes (Codeforces 931 D2 XOR Break - Game Version)](https://copyrightly.github.io/Codeforces931D2-xor-primes)
-- [Binary Search on Arbitrary Array (Codeforces 935 E Binary Search)]((https://copyrightly.github.io/Codeforces935E-binary-search)
+- [Binary Search on Arbitrary Array (Codeforces 935 E Binary Search)](https://copyrightly.github.io/Codeforces935E-binary-search)
 
 [back](./)
