@@ -5,5 +5,9 @@ permalink: /ml
 ---
 
 - [Efficient ML](https://github.com/copyrightly/EfficientML)
+- [Kaggle AIMO](https://www.kaggle.com/c/ai-mathematical-olympiad-prize/overview)
+  - [Keras NLP](https://keras.io/keras_nlp/)
+  - [Keras NLP models](https://keras.io/api/keras_nlp/models/) 
+  - **prompt engineering**, explore more advanced prompt templates for better results.
 
 [back](./)
