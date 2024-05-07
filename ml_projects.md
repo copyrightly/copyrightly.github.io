@@ -9,5 +9,6 @@ permalink: /ml
   - [Keras NLP](https://keras.io/keras_nlp/)
   - [Keras NLP models](https://keras.io/api/keras_nlp/models/) 
   - **prompt engineering**, explore more advanced prompt templates for better results.
+  - [FAIR math proving](https://ai.meta.com/blog/ai-math-theorem-proving/)
 
 [back](./)
