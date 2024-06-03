@@ -4,7 +4,7 @@ title: "Problem 1066 optimal transport"
 permalink: /problem1066-optimal-transport
 ---
 
-# Optimal Transport
+# Optimal Transport I
 
 [Problem 1066](https://leetcode.com/problems/campus-bikes-ii/): In a 2D grid representing a campus, there are `n` people and `m` bikes (`n <= m`). The location of each person and bike is represented by 2D coordinates on the grid. We want to minimize the sum of distances between all possible assignments of people to bikes, where the distance between a person and a bike is calculated using the Manhattan distance.
 
