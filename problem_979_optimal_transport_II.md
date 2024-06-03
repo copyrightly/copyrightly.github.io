@@ -132,3 +132,5 @@ normalized_distribution = [1.0 / n for _ in range(n)]
 ot_dist = ot.emd2(original_distribution, normalized_distribution, np.array(d)) * n
 ot_dist
 ```
+
+[back](/math-and-algo)
