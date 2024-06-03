@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 1066 optimal transport"
-permalink: /problem1066-optimal-transport
+permalink: /problem1066-optimal-transport-I
 ---
 
 # Optimal Transport I
