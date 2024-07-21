@@ -96,6 +96,6 @@ It can be observed that the distribution resembles a normal distribution, but th
 In fact, the distribution of inversion counts can be described using a generating function.
 ![Alt text](assets/images/problem_629_generating_function.png)
 
-For a detailed proof, refer to this blog post titled "[Inductive proof of the inversion statistics distribution on permutation set](https://www.tvhoang.com/articles/2021/03/inversion-stat-distribution-proof)". (The genrating function above is also extracted from the post)
+For a detailed proof, refer to this blog post "[Inductive proof of the inversion statistics distribution on permutation set](https://www.tvhoang.com/articles/2021/03/inversion-stat-distribution-proof)". (The genrating function above is also extracted from the post)
 
 [back](/math-and-algo)
