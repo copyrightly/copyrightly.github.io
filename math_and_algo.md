@@ -13,5 +13,6 @@ permalink: /math-and-algo
 - [XOR and Primes (Codeforces 931 D2 XOR Break - Game Version)](https://copyrightly.github.io/Codeforces931D2-xor-primes)
 - [Binary Search on Arbitrary Array (Codeforces 935 E Binary Search)](https://copyrightly.github.io/Codeforces935E-binary-search)
 - [Optimization: Optimal Transport II(Problem 979)](https://copyrightly.github.io/problem979-optimal-transport-II)
+- [Inversion I: The distribution(Problem 629)](https://copyrightly.github.io/problem629-inversion-I)
 
 [back](./)
