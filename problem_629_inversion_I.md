@@ -4,7 +4,7 @@ title: "Problem 629 inversion"
 permalink: /problem629-inversion-I
 ---
 
-# Inversion I
+# Inversion I: The Distribution
 
 [Problem 629](https://leetcode.com/problems/k-inverse-pairs-array/): Given a positive integer `n` and `k`, how many permutations of `1` to `n` have exactly `k` inversions?
 
