@@ -14,5 +14,6 @@ permalink: /math-and-algo
 - [Binary Search on Arbitrary Array (Codeforces 935 E Binary Search)](https://copyrightly.github.io/Codeforces935E-binary-search)
 - [Optimization: Optimal Transport II(Problem 979)](https://copyrightly.github.io/problem979-optimal-transport-II)
 - [Inversion I: The distribution(Problem 629)](https://copyrightly.github.io/problem629-inversion-I)
+- [Optimization: Optimal Transport III(Problem 3189)](https://copyrightly.github.io/problem3189-optimal-transport-III)
 
 [back](./)
