@@ -78,7 +78,7 @@ def minMoves(rooks):
 minMoves([[0,0],[0,1],[0,2],[0,3]])
 # get 6
 ```
-The complete code with testing can be found in this [colab notebook](https://colab.research.google.com/drive/14fWTBJX32jFNX5tR6JVKFA2okqvyBjKN#scrollTo=-n5VOqyfYwg8).
+The complete code with testing can be found in this [colab notebook](https://colab.research.google.com/drive/14fWTBJX32jFNX5tR6JVKFA2okqvyBjKN#scrollTo=bBF4HhBSVQ8B).
 
 It’s worth noting that using OT (Optimal Transport) here is not an efficient algorithm: the complexity of calculating the distance (cost matrix) between all rows is `O(n^2)`, and the complexity of the emd function is `O(n^3 logn)`. In contrast, the initial greedy solution we presented has a complexity of only `O(n)`. We are simply providing another perspective to approach the problem.
 
