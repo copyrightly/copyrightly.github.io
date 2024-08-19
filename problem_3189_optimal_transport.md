@@ -4,7 +4,7 @@ title: "Problem 3189 optimal transport III"
 permalink: /problem3189-optimal-transport-III
 ---
 
-# Optimal Transport I
+# Optimal Transport III
 
 [Problem 3189](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/): On an `n × n` chessboard, there are `n` rooks placed, and their positions are given by a 2D array `rooks` of length `n`. You can move a rook horizontally or vertically to an adjacent position. The question is: what is the minimum number of moves required to ensure that each row and each column contains exactly one rook (at no point should two rooks overlap)?
 
