@@ -15,5 +15,6 @@ permalink: /math-and-algo
 - [Optimization: Optimal Transport II(Problem 979)](https://copyrightly.github.io/problem979-optimal-transport-II)
 - [Inversion I: The distribution(Problem 629)](https://copyrightly.github.io/problem629-inversion-I)
 - [Optimization: Optimal Transport III(Problem 3189)](https://copyrightly.github.io/problem3189-optimal-transport-III)
+- [Number Theory: Prime Factorization (Problem 650)](https://copyrightly.github.io/problem650-prime-factorization)
 
 [back](./)
