@@ -8,6 +8,10 @@ permalink: /ml
 - AI for math
   - [Kaggle AIMO](https://www.kaggle.com/c/ai-mathematical-olympiad-prize/overview), [My submissions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/code?competitionId=73231&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
   - [FAIR math theorem proving](https://ai.meta.com/blog/ai-math-theorem-proving/)
+  - Terence Tao's talks
+    - [Terence Tao at IMO 2024: AI and Mathematics](https://www.youtube.com/watch?v=e049IoFBnLA&list=WL&index=149)
+      - Key words: machine learning, LLM, formal proof assistants
+      - [my doc](https://docs.google.com/document/d/1dtXeos8CB3uKaL5LtvQEZCl7uB3Z-2nKZKOLLExQ9_g/edit?tab=t.0#heading=h.m311wxim39az) 
 - Learning Generative AI
   - Google's [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) (very general and high level introduction, no tech details)
   - Google's [Model Garden on Vertex AI](https://cloud.google.com/model-garden): a single place to discover, customize, and deploy a wide variety of models from Google and Google partners
