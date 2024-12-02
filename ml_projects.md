@@ -6,7 +6,10 @@ permalink: /ml
 
 - [Efficient ML](https://github.com/copyrightly/EfficientML)
 - AI for math
-  - [Kaggle AIMO](https://www.kaggle.com/c/ai-mathematical-olympiad-prize/overview), [My submissions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/code?competitionId=73231&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+  - Kaggle competitions
+    - [Kaggle AIMO](https://www.kaggle.com/c/ai-mathematical-olympiad-prize/overview)
+      - [My submissions](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/code?competitionId=73231&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+    - [AI Mathematical Olympiad - Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2)
   - [FAIR math theorem proving](https://ai.meta.com/blog/ai-math-theorem-proving/)
   - Terence Tao's talks
     - [Terence Tao at IMO 2024: AI and Mathematics](https://www.youtube.com/watch?v=e049IoFBnLA&list=WL&index=149)
