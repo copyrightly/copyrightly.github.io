@@ -27,5 +27,7 @@ permalink: /ml
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
     - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135) is converted to a [6 min audio discussion](https://illuminate.google.com/library?play=qSuKlE1_qZxX1)
+- For fun
+  - [Lee Sedol vs. AlphaGo: The Human Mind’s Last Stand Against AI](https://www.youtube.com/watch?v=NxaYBKqrsew)
 
 [back](./)
