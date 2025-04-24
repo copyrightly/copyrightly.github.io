@@ -30,6 +30,7 @@ permalink: /ml
 - GPU and CUDA
   - [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
   - autonomous kernel writing https://www.linkedin.com/feed/update/urn:li:share:7298171671876644864/
+  - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 - For fun
   - [Lee Sedol vs. AlphaGo: The Human Mind’s Last Stand Against AI](https://www.youtube.com/watch?v=NxaYBKqrsew) (a YouTube video)
 
