@@ -30,8 +30,15 @@ permalink: /ml
     - Pay attention to what model you're using (model providers have their own pricing tiers)
       - GPT, Claude, Gemini, Grok, Perplexity
       - Use reasoning (thinking) models when the tasks are complicated (in particular, math and coding problems)
-    - Tool use, e.g. internest search (Perplexity is good at this)
-    - Deep research (a combination of internet search and thinking)
+    - Tool use
+      - Internest search (Perplexity is good at this)
+      - Deep research (a combination of internet search and thinking)
+      - Upload papers or books to LLM to help you read
+        - A missing tool in the market: highlight a paragraph and then ask questions about it. Currently we have to copy and paste the paragraph, back and forth several times
+      - Python interpreter (i.e. computer programes)
+      - GPT 4o's Advanced Data Analysis (making plot, extrapolating)
+      - Claude's Artifacts (e.g. make conceptual diagram of paper, chapter, book, source code, etc)
+      - Cursor: Composer
 - AI tools
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
