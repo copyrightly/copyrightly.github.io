@@ -29,8 +29,9 @@ permalink: /ml
     - Start a new conversation whenever you need, since irrlevant information in the context window is distracting (so reducing the response quality) and decreasing the responding speed
     - Pay attention to what model you're using (model providers have their own pricing tiers)
       - GPT, Claude, Gemini, Grok, Perplexity
-      - Use reasoning models when the tasks are complicated (in particular, math and coding problems)
-    - Tool use, e.g. internest search
+      - Use reasoning (thinking) models when the tasks are complicated (in particular, math and coding problems)
+    - Tool use, e.g. internest search (Perplexity is good at this)
+    - Deep research (a combination of internet search and thinking)
 - AI tools
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
