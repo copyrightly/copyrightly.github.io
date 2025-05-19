@@ -27,8 +27,10 @@ permalink: /ml
   - [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
   - Andrej's sharing: [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
     - Start a new conversation whenever you need, since irrlevant information in the context window is distracting (so reducing the response quality) and decreasing the responding speed
-    - Pay attention to what model you're using (each company has their own pricing tiers)
+    - Pay attention to what model you're using (model providers have their own pricing tiers)
       - GPT, Claude, Gemini, Grok, Perplexity
+      - Use reasoning models when the tasks are complicated (in particular, math and coding problems)
+    - Tool use, e.g. internest search
 - AI tools
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
