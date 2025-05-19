@@ -25,6 +25,8 @@ permalink: /ml
     - My Practice: [Fine tune GPT2 with The Simpsons](https://colab.research.google.com/drive/1R7NnbvjIrl2xgzCB7yuC5-aoN7kmmcTt#scrollTo=zt8t6o5hsPjs)
   - [Hugging Face's NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
   - [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
+  - Andrej's sharing: [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+    - Start a new conversation whenever you need, since irrlevant information in the context window is distracting (so reducing the response quality) and decreasing the responding speed
 - AI tools
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
