@@ -62,5 +62,6 @@ permalink: /ml
   - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 - For fun
   - [Lee Sedol vs. AlphaGo: The Human Mind’s Last Stand Against AI](https://www.youtube.com/watch?v=NxaYBKqrsew) (a YouTube video)
+  - [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=5287s)
 
 [back](./)
