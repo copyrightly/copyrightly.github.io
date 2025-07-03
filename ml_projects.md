@@ -24,6 +24,10 @@ permalink: /ml
   - [Tokenization and Build GPT2](https://github.com/copyrightly/learning-language-model/blob/main/README.md) by Andrej Karpathy
     - My Practice: [Fine tune GPT2 with The Simpsons](https://colab.research.google.com/drive/1R7NnbvjIrl2xgzCB7yuC5-aoN7kmmcTt#scrollTo=zt8t6o5hsPjs)
   - [Hugging Face's NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+    - Resources
+      - an introductory deep learning course: fast.ai’s [Practical Deep Learning for Coders](https://course.fast.ai/)
+      - programs developed by [DeepLearning.AI](https://www.deeplearning.ai/)
+      - DeepLearning.AI’s [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20211011-nlp-2-hugging_face-page-nlp-refresh), which covers a wide range of traditional NLP models like naive Bayes and LSTMs that are well worth knowing about
   - [What is Temperature in NLP?](https://lukesalamone.github.io/posts/what-is-temperature/)
   - Andrej's sharing: [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
     - [Excalidraw file](https://drive.google.com/file/d/1DN3LU3MbKI00udxoS-W5ckCHq99V0Uqs/view) for this video
