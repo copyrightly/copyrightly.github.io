@@ -56,6 +56,7 @@ permalink: /ml
       - ChatGPT Memory feature (save the text and always prepend it to the beginning of the prompt)
       - Custom instructions
       - Custom GPTs
+- Learning diffusion, flow/score matching models
 - AI tools
   - [Google's Illuminate](https://illuminate.google.com/home?pli=1) which transforms text content, for example papers, into engaging audio discussions, e.g.
     - [Attention is all you need](https://arxiv.org/pdf/1706.03762) is converted to a [4 min audio discussion](https://illuminate.google.com/home?play=SKUdNc_PPLL8)
